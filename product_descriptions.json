@@ -1,0 +1,110 @@
+[
+    {
+        "product_name": "Smart Home Thermostat",
+        "product_type": "Electronic Appliance",
+        "product_description": "The Smart Home Thermostat allows you to effortlessly control your home's temperature and energy consumption. With intuitive smartphone integration, you can adjust settings from anywhere.",
+        "product_price_in_pounds": 99.99
+    },
+    {
+        "product_name": "Robot Vacuum Cleaner",
+        "product_type": "Electronic Appliance",
+        "product_description": "Our Robot Vacuum Cleaner is your smart cleaning companion. It navigates your home, efficiently removing dirt and debris from every corner. You can schedule cleanings and monitor its progress through a mobile app.",
+        "product_price_in_pounds": 199.99
+    },
+    {
+        "product_name": "Wireless Bluetooth Speaker",
+        "product_type": "Electronic Appliance",
+        "product_description": "Experience music like never before with our Wireless Bluetooth Speaker. Its high-fidelity audio and portable design make it perfect for indoor and outdoor use. Connect wirelessly to your devices and enjoy crystal-clear sound.",
+        "product_price_in_pounds": 49.99
+    },
+    {
+        "product_name": "Gaming Console",
+        "product_type": "Gaming",
+        "product_description": "The Gaming Console offers immersive gaming experiences with stunning graphics and lightning-fast performance. Enjoy a vast library of games and seamless online multiplayer. Get ready to embark on epic adventures.",
+        "product_price_in_pounds": 299.99
+    },
+    {
+        "product_name": "Gaming Keyboard and Mouse Combo",
+        "product_type": "Gaming",
+        "product_description": "Dominate the competition with our Gaming Keyboard and Mouse Combo. Engineered for precision and comfort, it features customizable RGB lighting, programmable keys, and high-precision sensors. Elevate your gaming skills.",
+        "product_price_in_pounds": 79.99
+    },
+    {
+        "product_name": "Gaming Headset with Mic",
+        "product_type": "Gaming",
+        "product_description": "Communicate and strategize effectively with our Gaming Headset. Crystal-clear audio, noise-cancellation, and a retractable microphone enhance your gaming sessions. Comfortable for long gaming marathons.",
+        "product_price_in_pounds": 59.99
+    },
+    {
+        "product_name": "Outdoor Patio Set",
+        "product_type": "Garden Items",
+        "product_description": "Transform your outdoor space with our Outdoor Patio Set. Crafted with durable materials, it includes a spacious table and comfortable chairs. Perfect for alfresco dining and relaxation under the sun.",
+        "product_price_in_pounds": 399.99
+    },
+    {
+        "product_name": "Solar-Powered Garden Lights",
+        "product_type": "Garden Items",
+        "product_description": "Enhance your garden's ambiance with Solar-Powered Garden Lights. These eco-friendly lights automatically illuminate at dusk, adding a warm glow to your landscaping. Easy to install and low-maintenance.",
+        "product_price_in_pounds": 29.99
+    },
+    {
+        "product_name": "Garden Hose with Nozzle",
+        "product_type": "Garden Items",
+        "product_description": "Keep your garden lush and healthy with our Garden Hose and Nozzle combo. The durable hose delivers a strong, adjustable stream of water, while the nozzle allows for precise watering. Gardening made easy.",
+        "product_price_in_pounds": 19.99
+    },
+    {
+        "product_name": "Men's Casual Jeans",
+        "product_type": "Apparel",
+        "product_description": "Stay comfortably stylish all day long in our Men's Casual Jeans. Crafted from premium denim, these jeans offer a perfect fit and timeless design. Versatile for both casual and semi-formal occasions.",
+        "product_price_in_pounds": 49.99
+    },
+    {
+        "product_name": "Women's Athletic Shoes",
+        "product_type": "Apparel",
+        "product_description": "Elevate your workout performance and style with our Women's Athletic Shoes. Designed for maximum comfort and support, these shoes feature advanced cushioning and a sleek, modern look.",
+        "product_price_in_pounds": 69.99
+    },
+    {
+        "product_name": "Kids' Cartoon Pajamas",
+        "product_type": "Apparel",
+        "product_description": "Make bedtime an adventure with our Kids' Cartoon Pajamas. These adorable pajama sets feature their favorite characters and are made from soft, breathable fabric for a cozy night's sleep.",
+        "product_price_in_pounds": 19.99
+    },
+    {
+        "product_name": "Gourmet Coffee Blend",
+        "product_type": "Food and Drink",
+        "product_description": "Indulge in the rich, aromatic flavors of our Gourmet Coffee Blend. Sourced from the finest beans, this blend offers a balanced taste profile with notes of chocolate and a velvety finish.",
+        "product_price_in_pounds": 12.99
+    },
+    {
+        "product_name": "Organic Green Tea",
+        "product_type": "Food and Drink",
+        "product_description": "Nourish your body with the soothing benefits of Organic Green Tea. Packed with antioxidants, this tea promotes wellness and relaxation. Enjoy a refreshing cup any time of the day.",
+        "product_price_in_pounds": 8.99
+    },
+    {
+        "product_name": "Artisanal Chocolate Truffles",
+        "product_type": "Food and Drink",
+        "product_description": "Experience pure chocolate bliss with our Artisanal Chocolate Truffles. Handcrafted with the finest ingredients, these decadent truffles melt in your mouth, delivering an unforgettable taste sensation.",
+        "product_price_in_pounds": 14.99
+    },
+    {
+        "product_name": "Leather Recliner Sofa",
+        "product_type": "Furniture",
+        "product_description": "Unwind in unparalleled luxury with our Leather Recliner Sofa. Crafted with supple leather and advanced reclining mechanisms, it offers ultimate comfort and timeless style for your home.",
+        "product_price_in_pounds": 599.99
+    },
+    {
+        "product_name": "Modern Glass Dining Table",
+        "product_type": "Furniture",
+        "product_description": "Elevate your dining experience with our Modern Glass Dining Table. Its sleek design and tempered glass top add a touch of sophistication to your dining area, perfect for hosting gatherings.",
+        "product_price_in_pounds": 299.99
+    },
+    {
+        "product_name": "Wooden Bed Frame with Storage",
+        "product_type": "Furniture",
+        "product_description": "Maximize your bedroom space in style with our Wooden Bed Frame with Storage. This beautifully crafted frame features built-in storage drawers, adding both functionality and elegance to your bedroom.",
+        "product_price_in_pounds": 349.99
+    }
+]

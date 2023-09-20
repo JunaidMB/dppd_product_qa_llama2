@@ -1,0 +1,9 @@
+accelerate==0.23.0
+annoy==1.17.3
+cohere==4.24
+langchain==0.0.285
+numpy==1.23.3
+pandas==2.1.0
+python-dotenv==1.0.0
+torch==2.0.1
+transformers==4.33.2
